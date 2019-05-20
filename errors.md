@@ -1,3 +1,5 @@
+# Trading Cards Errors
+
 The trading card page with styling has a border around the entire card
 The border should be solid: expected 'none' to equal 'solid'
 
